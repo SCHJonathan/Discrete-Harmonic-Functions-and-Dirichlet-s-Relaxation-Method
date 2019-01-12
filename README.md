@@ -1,6 +1,6 @@
 # Discrete Harmonic Function and Dirichlet's Relaxation Process 
 
-The goal of this project is to create interactive Mathematica-based visualizations of interesting mathematical topics for use in instruction and outreach activities. In particular, this project focuses on visualizations illustrating discretized harmonic functions, Dirichlet problem, Dirichlet energy, and Dirichlet's relaxation process. This project is reviewed and published at [Wolfram Demonstrations Project](placeholder). This project is based on an undergraduate research project at the [Illinois Geometry Lab](https://math.illinois.edu/research/igl) and directed by [A.J. Hildebrand](https://faculty.math.illinois.edu/~hildebr/).
+The goal of this project is to create interactive Mathematica-based visualizations of interesting mathematical topics for use in instruction and outreach activities. In particular, this project focuses on visualizations illustrating discretized harmonic functions, Dirichlet problem, Dirichlet energy, and Dirichlet's relaxation process. This project is reviewed and published at [Wolfram Demonstrations Project](http://demonstrations.wolfram.com/preview.html?draft/76316/000015/DiscreteHarmonicFunctionsAndDirichletsRelaxationMethod). This project is based on an undergraduate research project at the [Illinois Geometry Lab](https://math.illinois.edu/research/igl) and directed by [A.J. Hildebrand](https://faculty.math.illinois.edu/~hildebr/).
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ These instructions will get you a copy of the project up and running on your loc
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Reference
-see [Wolfram Demonstrations Project](placeholder).
+see [Wolfram Demonstrations Project](http://demonstrations.wolfram.com/preview.html?draft/76316/000015/DiscreteHarmonicFunctionsAndDirichletsRelaxationMethod).
 
 ## Authors
 
