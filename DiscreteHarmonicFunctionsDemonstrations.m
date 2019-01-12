@@ -9,7 +9,7 @@ This function initializes the boundary values of the given matrix to generate th
 Input:
 		inMatrix_: a zero matrix.
     randomRange_: the cap of the RandomReal for the outer boundary values.
-    innerBoundaryRandomRange: the cap of the RandomReal for the inner boundary values.
+    innerBoundaryRandomRange: the cap of the RandomReal for the inner boundary\[NonBreakingSpace]values.
 	  innerBoundary_: boolean variable for inner boundary.
 	  innerBoundaryXIndex_: the x index of the top right corner of the inner boundary.
 	  innerBoundaryYIndex_: the y index of the top right corner of the inner boundary.

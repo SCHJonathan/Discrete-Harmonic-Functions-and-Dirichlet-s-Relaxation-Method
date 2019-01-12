@@ -1,30 +1,25 @@
 # Discrete Harmonic Function and Dirichlet's Relaxation Process 
 
-The goal of this project is to create interactiveMathematica-based visualizations of interesting mathematical topics for use in instruction and outreach activities. In particular, this project focuses on visualizations illustrating discretized harmonic functions, Dirichlet problem, Dirichlet enegry, and Dirichlet's relaxation process.
+The goal of this project is to create interactive Mathematica-based visualizations of interesting mathematical topics for use in instruction and outreach activities. In particular, this project focuses on visualizations illustrating discretized harmonic functions, Dirichlet problem, Dirichlet energy, and Dirichlet's relaxation process. This project is reviewed and published at [Wolfram Demonstrations Project](placeholder). This project is based on an undergraduate research project at the [Illinois Geometry Lab](https://math.illinois.edu/research/igl) and directed by [A.J. Hildebrand](https://faculty.math.illinois.edu/~hildebr/).
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. In this repository, I include two different versions of the same software (*DiscreteHarmonicFunctionsDemonstrations.nb* and *DiscreteHarmonicFunctionsDemonstrations.m*). *DiscreteHarmonicFunctionsDemonstrations.m* is simply the source code of the notebook version. 
 
 ### Prerequisites
 
-* This project is based on [**Mathematica**](http://www.wolfram.com/mathematica/) programming language, which requires install the software and run the programm in a notebook format.
-* If you want to run this program in a Text-Based-Interface, you can install [*WolframScript*](https://www.wolfram.com/wolframscript/).
+* This project is based on [**Mathematica**](http://www.wolfram.com/mathematica/) programming language, which requires install the software and run the program in a notebook format. Once downloaded, you can simply run the program by double clicking the [DiscreteHarmonicFunctionsDemonstrations.nb](DiscreteHarmonicFunctionsDemonstrations.nb) file.
 
 ### Installing
 
-* 
+1. Download [Mathematica](https://www.wolfram.com/mathematica/trial/)
+
+2. Clone this repository into your own machine by openning up the terminal and type in the following command:
 ```
-Give the example
+git clone https://github.com/Jonathan-UIUC/Discrete-Harmonic-Functions-and-Dirichlet-s-Relaxation-Method.git
 ```
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+3.  double click the file [DiscreteHarmonicFunctionsDemonstrations.nb](DiscreteHarmonicFunctionsDemonstrations.nb)
 
 ## Deployment
 
