@@ -4,26 +4,33 @@ The goal of this project is to create interactive Mathematica-based visualizatio
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system. In this repository, I include two different versions of the same software (*DiscreteHarmonicFunctionsDemonstrations.nb* and *DiscreteHarmonicFunctionsDemonstrations.m*). *DiscreteHarmonicFunctionsDemonstrations.m* is simply the source code of the notebook version. 
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. In this repository, I include two different versions of the same software 
+(*DiscreteHarmonicFunctionsDemonstrations.nb* and *DiscreteHarmonicFunctionsDemonstrations.m*). *DiscreteHarmonicFunctionsDemonstrations.m* is simply the source code of the *DiscreteHarmonicFunctionsDemonstrations.nb*. 
 
 ### Prerequisites
 
-* This project is based on [**Mathematica**](http://www.wolfram.com/mathematica/) programming language, which requires install the software and run the program in a notebook format. Once downloaded, you can simply run the program by double clicking the [DiscreteHarmonicFunctionsDemonstrations.nb](DiscreteHarmonicFunctionsDemonstrations.nb) file.
+* This project is based on [**Mathematica**](http://www.wolfram.com/mathematica/) programming language, which requires to install the software and run the program in a notebook format. Once downloaded, you can simply run the program by double clicking the [DiscreteHarmonicFunctionsDemonstrations.nb](DiscreteHarmonicFunctionsDemonstrations.nb) file. If you double click this file without Mathematcia installed, it will show up garbage code but you can still view the source code by double clicking the [DiscreteHarmonicFunctionsDemonstrations.m](DiscreteHarmonicFunctionsDemonstrations.m) file.
+
+* (Optional) Good text editor.
 
 ### Installing
 
 1. Download [Mathematica](https://www.wolfram.com/mathematica/trial/)
 
-2. Clone this repository into your own machine by openning up the terminal and type in the following command:
+2. Open up terminal and direct to desire directory to clone this project. 
+
+3. In that directory, clone this repository into your own machine by typing in the following command in termial:
 ```
 git clone https://github.com/Jonathan-UIUC/Discrete-Harmonic-Functions-and-Dirichlet-s-Relaxation-Method.git
 ```
 
-3.  double click the file [DiscreteHarmonicFunctionsDemonstrations.nb](DiscreteHarmonicFunctionsDemonstrations.nb)
+4. A new folder should appear in that directory and you can open up the folder by typing:
 
-## Deployment
+```
+open Discrete-Harmonic-Functions-and-Dirichlet-s-Relaxation-Method
+```
 
-Add additional notes about how to deploy this on a live system
+4.  double click the file [DiscreteHarmonicFunctionsDemonstrations.nb](DiscreteHarmonicFunctionsDemonstrations.nb) and enjoy the demosntration. :)
 
 ## Contributing
 
@@ -31,14 +38,10 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* **Yuheng Chang**
+* [**Yuheng Chang**](https://jonathan-uiuc.github.io/yuhengchang.github.io/)
+
+* [**A.J. Hildebrand**](https://faculty.math.illinois.edu/~hildebr/) (Faculty Mentor)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
