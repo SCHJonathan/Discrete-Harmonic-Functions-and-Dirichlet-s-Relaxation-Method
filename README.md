@@ -18,23 +18,36 @@ These instructions will get you a copy of the project up and running on your loc
 1. Download [Mathematica](https://www.wolfram.com/mathematica/trial/)
 
 2. Open up terminal and direct to desire directory to clone this project. 
+    
+    * (optional) Or you can click the  "Clone or Download" button in upper right corner and select "Download ZIP" to download this repository into your desire directory. Then, upzip downloaded file and skip tp step 5.
 
 3. In that directory, clone this repository into your own machine by typing in the following command in termial:
-```
-git clone https://github.com/Jonathan-UIUC/Discrete-Harmonic-Functions-and-Dirichlet-s-Relaxation-Method.git
-```
+    ```
+    git clone https://github.com/Jonathan-UIUC/Discrete-Harmonic-Functions-and-Dirichlet-s-Relaxation-Method.git
+    ```
 
-4. A new folder should appear in that directory and you can open up the folder by typing:
+4. A new folder should appear in that directory and you can open up the folder by typing the following command in termial:
 
-```
-open Discrete-Harmonic-Functions-and-Dirichlet-s-Relaxation-Method
-```
+    ```
+    open Discrete-Harmonic-Functions-and-Dirichlet-s-Relaxation-Method
+    ```
 
 4.  double click the file [DiscreteHarmonicFunctionsDemonstrations.nb](DiscreteHarmonicFunctionsDemonstrations.nb) and enjoy the demosntration. :)
+
+## Screen Shoots
+
+<center>
+<img src="GIFs/Boundary.gif">
+<img src="GIFs/Relaxation.gif">
+<img src="GIFs/Others.gif">
+</center>
 
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Reference
+see [Wolfram Demonstrations Project](placeholder).
 
 ## Authors
 
